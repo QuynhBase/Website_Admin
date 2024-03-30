@@ -1,0 +1,17 @@
+{
+    "name": "tranquynh/handsome",
+    "autoload": {
+        "psr-4": {
+            "Tranquynh\\Handsome\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tranvanquynh",
+            "email": "quynhtran22@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2"
+    }
+}
